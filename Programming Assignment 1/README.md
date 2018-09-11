@@ -1,0 +1,1 @@
+implement in C++ a class My_vec that can hold data of character type (char). The description of the functions for data manipulation is provided in the first set of the lecture notes, see the slide 8. In the second phase, write a generic version of the class My_vec that can handle any type of data.
